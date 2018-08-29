@@ -1,7 +1,7 @@
 # iyzipay
 ## Unofficial Go wrapper for iyzipay API
-
-### Tests:
+Every api endpoint covered in the test below is working as intended. For use examples check out how they are done in the file: iyzipay_test.go
+### Tests(as of 29-Aug-2018):
 ```
 === RUN   TestOne
 --- PASS: TestOne (0.00s)
